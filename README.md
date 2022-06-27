@@ -21,6 +21,11 @@ You can also generate a new "golden master". Run:
 npm run snap
 ```
 
+To run the golden master tests:
+```shell
+npm test
+```
+
 Read more about Babel and Babel Node here: https://babeljs.io/docs/en/babel-node
 
 For more, visit [https://everest.engineering](https://everest.engineering).
