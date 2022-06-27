@@ -14,6 +14,7 @@ There's also setup for trying out the "Golden Master" strategy.
 git clone https://github.com/FaizuddinEverest/the-league.git
 git remote remove origin
 npm i
+npm run snap
 npm test
 ```
 
