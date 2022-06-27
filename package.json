@@ -1,0 +1,26 @@
+{
+  "name": "pingpong",
+  "version": "1.0.0",
+  "description": "Ping Pong pairing to send instructions to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "pairing",
+    "pingpong",
+    "workshop",
+    "everestengineering",
+    "ee"
+  ],
+  "author": "Faizuddin Mohammed",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/node": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1",
+    "prettier": "^2.7.1"
+  }
+}
