@@ -2,9 +2,9 @@
   "name": "pingpong",
   "version": "1.0.0",
   "description": "Ping Pong pairing to send instructions to Mars",
-  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "snap": "babel-node snap.js > golden.txt"
   },
   "keywords": [
     "pairing",
@@ -22,5 +22,8 @@
     "babel-jest": "^28.1.1",
     "jest": "^28.1.1",
     "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.3.0"
   }
 }

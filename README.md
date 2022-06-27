@@ -1,9 +1,11 @@
-# EverestEngineering Internal Workshop
+### EverestEngineering Internal Workshop
+# The League - migrating from a legacy codebase
 
-This is a "starter template" repo with Jest, Prettier and Babel configured and ready to go. To get started,
+This is a "starter template" repo with Jest, Prettier and Babel configured ready to go.
+There's also setup for trying out the "Golden Master" strategy.
 
 ```shell
-git clone https://github.com/FaizuddinEverest/pingpong.git
+git clone https://github.com/FaizuddinEverest/the-league.git
 git remote remove origin
 npm i
 npm test
@@ -11,18 +13,14 @@ npm test
 
 Also includes `babel-node`, so run the app (not for production) with:
 ```shell
-npx babel-node index.js
+npx babel-node game.js
+```
+
+You can also generate a new "golden master". Run:
+```shell
+npm run snap
 ```
 
 Read more about Babel and Babel Node here: https://babeljs.io/docs/en/babel-node
-
-### Workshop includes
-- Test Driven Design & Development (TDD)
-- Pair programming, Ping-pong pair programming, and more!
-- 3 sprints with different partners
-- Javascript with Jest
-- Discussion and group learning
-- Reflection on how and when to use these approaches in regular work
-
 
 For more, visit [https://everest.engineering](https://everest.engineering).
