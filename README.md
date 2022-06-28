@@ -1,5 +1,5 @@
 # Migrating from a legacy codebase
-EverestEngineering Internal Workshop to deal with legacy code using the [Golden Master](https://en.wikipedia.org/wiki/Mastering_(audio)) Testing strategy.
+EverestEngineering Internal Workshop to deal with legacy code using the [Golden Master](https://en.wikipedia.org/wiki/Mastering_(audio)) Refactoring technique.
 
 > Mastering, a form of audio post production, is the process of preparing and transferring recorded audio from a source containing the final mix to a data storage device (the master), the source from which all copies will be produced (via methods such as pressing, duplication or replication).
 
