@@ -7,7 +7,7 @@ This is a "starter template" repo with Jest, Prettier and Babel configured ready
 There's also setup for trying out the "Golden Master" strategy:
 
 ```shell
-git clone https://github.com/FaizuddinEverest/the-league.git
+git clone https://github.com/FaizuddinEverest/golden-master.git
 git remote remove origin
 npm i
 npm run snap
