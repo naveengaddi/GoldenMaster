@@ -8,6 +8,7 @@ describe("Gold Master Test", function () {
 
   beforeAll(async () => {
     const goldenRaw = await readFile("./golden.txt", "utf8");
+
     golden = goldenRaw
       .trim()
       .split("\n")
